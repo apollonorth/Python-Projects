@@ -1,2 +1,2 @@
 # Python-Projects
-Repository for smaller python projects.
+A place for smaller python projects.
